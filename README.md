@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Samuel Torres 👋
 
-- 🔭 Atualmente em busca de novas oportunidades como Desenvolvedor FullStack Jr, Desenvolvedor Front-End Jr, Desenvolvedor trainee
 - 🌱 Estudando Angular 2+ | Java
 
 <div align="center">
